@@ -1,0 +1,9 @@
+현재 BLDC모터 스펙
+제품명 : MGT1724HB-R51-IP68
+사이즈 : 170x150x50mm
+전력 관련 : DC 24V 0.66A 15.84W
+
+ESC voltage low
+
+
+
